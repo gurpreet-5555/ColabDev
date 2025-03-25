@@ -7,7 +7,8 @@
 #     path('update-project/<str:pk>/',views.updateProject,name="update-project"),
 #     path('projects/',views.projects, name="Projects"),
 #     path('singleproject/',views.singleproject, name="singleproject"),
-# ]
+# 
+#urls.py]
 from django.urls import path
 from . import views
 
