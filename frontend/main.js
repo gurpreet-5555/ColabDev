@@ -1,3 +1,4 @@
+//main.js
 let loginBtn = document.getElementById('login-btn')
 let logoutBtn = document.getElementById('logout-btn')
 
