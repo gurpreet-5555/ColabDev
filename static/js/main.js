@@ -1,4 +1,4 @@
-
+//main.js
 // GET SEARCH FORM AND PAGE LINKS
 let searchForm = document.getElementById('searchForm')
 let pageLinks = document.getElementsByClassName('page-link')
